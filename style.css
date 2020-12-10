@@ -4,7 +4,7 @@
     background-color: #FCF0DD;
     padding: 20px;
     width: 350px;
-    height: 35px;
+    height: 60px;
     margin-left: auto;
     margin-right: auto;
     font-family: "Montserrat", bold;
@@ -14,25 +14,32 @@
     text-align: center;
     border-radius: 20px;
     background-color: #FCF0DD;
+    font-size: 16px;
     padding: 20x;
     width: 500px;
     height: 60px;
-    margin-right: auto;
-    margin-left: auto;
     font-family: "Montserrat";
-
+    
 }
+
 
 #websiteTitle2 {
     text-align: center;
     border-radius: 20px;
     background-color: #FCF0DD;
     padding: 20px;
-    width: 450px;
-    height: 100px;
+    width: 400px;
+    height: 75px;
     margin-left: auto;
     margin-right: auto;
     font-family: "Montserrat", bold;
+
+}
+
+.book {
+
+  display: flex;
+  align-items:center;
 
 }
 
@@ -66,4 +73,13 @@ ul {
   li a:hover {
     background-color: #111;
   }
+
+#readyPlayerOneImage {
+  padding-left: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  filter: drop-shadow(-1rem 1rem 0.75rem black);
+  
+}
 

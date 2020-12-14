@@ -11,17 +11,41 @@
 }
 
 #testomonial1 {
-    text-align: center;
+    text-align: right;
     border-radius: 20px;
     background-color: #FCF0DD;
-    font-size: 16px;
+    font-size: 18px;
     padding: 20x;
-    width: 500px;
-    height: 60px;
+    width: 650px;
+    height: 175px;
+    padding-left: 50px;
+    padding-right: 15px;
+    padding-top: 5px;
     font-family: "Montserrat";
+    
     
 }
 
+#testomonial2 {
+  text-align: right;
+  border-radius: 20px;
+  background-color: #FCF0DD;
+  font-size: 18px;
+  padding: 20x;
+  width: 650px;
+  height: 200px;
+  padding-right: 15px;
+  padding-top: 5px;
+  font-family: "Montserrat";
+  
+}
+
+.random {
+
+  float: right;
+  padding-right: 20px;
+
+}
 
 #websiteTitle2 {
     text-align: center;
@@ -38,8 +62,10 @@
 
 .book {
 
-  display: flex;
+  display: block;
   align-items:center;
+
+  
 
 }
 
@@ -75,11 +101,25 @@ ul {
   }
 
 #readyPlayerOneImage {
-  padding-left: 200px;
+
   margin-left: auto;
   margin-right: auto;
   display: block;
   filter: drop-shadow(-1rem 1rem 0.75rem black);
+  padding-left: 20px;
+
   
 }
 
+#Randoms {
+
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  filter: drop-shadow(1rem 1rem 0.75rem black);
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  
+
+}

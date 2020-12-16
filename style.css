@@ -100,7 +100,7 @@ ul {
     background-color: #111;
   }
 
-#readyPlayerOneImage {
+.leftBook  {
 
   margin-left: auto;
   margin-right: auto;
@@ -111,7 +111,7 @@ ul {
   
 }
 
-#Randoms {
+.rightBook {
 
   margin-left: auto;
   margin-right: auto;
@@ -121,5 +121,14 @@ ul {
   padding-right: 20px;
   padding-top: 10px;
   
+
+}
+
+#shelf {
+
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
 
 }
